@@ -32,7 +32,7 @@ const Header = () => {
               proReader
             </span>
           </Link>
-          <ul className='flex items-center hidden space-x-8 lg:flex'>
+          <ul className='flex items-center  space-x-8 lg:flex'>
             <li>
               <NavLink
                 to='/home'
